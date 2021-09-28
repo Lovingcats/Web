@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>단락</h1>
+    <p><i>글씨체</i> 바꾸기</p>
+    <p><em>I</em> 와 <em>EM</em> 은 같은 효과</p>
+    <p><mark>MARK</mark> 는 하이라이팅 효과</p>
+    <p><del>DEL</del> <-- 앞에 부분을 삭제했어요</p>
+    <p><ins>INS</ins>는 텍스트 밑에 가로줄을 만들어요</p>
+    <p>x<sup>2</sup> + Y<sup>3</sup> = Z</p>
+    <p>물을 나타내는 화학식은 h<sub>2</sub>o</p>
+</body>
+</html>
