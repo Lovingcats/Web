@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>color</title>
+</head>
+<body>
+    <h1>색상</h1>
+    <p style="color: blue; font-size: 150%;">파란색</p>
+    <p style="color: red; font-size: 150%;">빨간색</p>
+    <p style="color: green; font-size: 150%;">연두색</p>
+    <p style="color: orange; font-size: 150%;">주황색</p>
+    <p style="color:rgb(185, 255, 255); font-size: 150%;">rgb(185, 255, 255)색</p>
+    <p style="color: rgb(164, 255, 187); font-size: 150%;">rgb(164, 255, 187)색</p>
+    <p style="color: rgb(236, 120, 247); font-size: 150%;">rgb(236, 120, 247)색</p>
+    <p style="color: rgb(248, 148, 134); font-size: 150%;">rgb(248, 148, 134)색</p>
+    <p style="color: #0000FF; font-size: 150%;">#0000FF색</p>
+    <p style="color: #008080; font-size: 150%;">#008080색</p>
+
+</body>
+</html>
